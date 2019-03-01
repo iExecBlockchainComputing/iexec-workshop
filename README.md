@@ -1,5 +1,2 @@
-# iExec Workshop Repository
-The iExec Workshop Repository contains all workshop relative files.
+# iExec EthCC 2019 Workshop
 
-## Workshop list
-- EthCC 2019
