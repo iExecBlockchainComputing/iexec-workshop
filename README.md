@@ -2,4 +2,4 @@
 The iExec Workshop Repository contains all workshop relative files.
 
 ## Workshop list
-- [a link]/iExecBlockchainComputing/iexec-workshop/tree/ethcc2019
+- [EthCC 2019](/iExecBlockchainComputing/iexec-workshop/tree/ethcc2019)
